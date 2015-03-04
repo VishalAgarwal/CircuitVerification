@@ -1,5 +1,8 @@
-// define signals here itself only
+% define signals values of inputs here itself
 
+%signal(x1).
+%signal(x2).
+%signal(x3).
 signal(X):- connected(K,X),signal(K).
 signal(X):- output(G,X),out(G).
 
