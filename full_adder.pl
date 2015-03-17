@@ -1,3 +1,8 @@
+%new_carry_x16
+%new_result_x18
+%initial_input_x1_x2 
+%prev_carry_x3
+
 connected(x1,x4).
 connected(x1,x11).
 connected(x2,x5).

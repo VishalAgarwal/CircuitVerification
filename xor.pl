@@ -1,3 +1,5 @@
+%final_output_x15
+%initial_input_x1_x2 
 connected(x1,x3).
 connected(x2,x4).
 connected(x2,x7).

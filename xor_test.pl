@@ -1,3 +1,6 @@
+%input_x1_x2
+%output_x6
+
 connected(x1,x3).
 connected(x2,x4).
 connected(x5,x6).
